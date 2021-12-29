@@ -1,0 +1,6 @@
+Atalhos úteis do Git
+cd + primeiras letras + tab : preenche o nome dos arquivos da página
+pwd : mostra o caminho da pasta que estamos
+mv + nome do arquivo + ./ + nome da pasya que queremos mover : mover arquivo
+q : sair
+seta para cima : mostra os últimos comandos
